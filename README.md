@@ -20,7 +20,7 @@ Artifact development done by @mgreen27 as shared on [Artifacts exchange](https:/
 5. A file named chrysalis_SEE_YOUR_RESULTS_HERE.zip should be put in the directory of the scanner
 6. Unzip these file(s) and open either the json or csv file(s) to see where it found possible indicators of chrysalis.
 
-> **Warning**
+> [!WARNING]
 > The "Chrysalis network indicators" can generate alot of false positives, by just handling the IOC's by visiting eg. Rapid7's writeup of the attack, please handle this with some skepticism. FP's seen so far is msedge.exe(i visited a site with the IOC's during development), code.exe(I have the IOC's in vscode) etc. 
 
 ### Run on linux
